@@ -6,3 +6,5 @@
 - 🌱 Currently learning embeded programming on an Atmega324-Pa Microcontroler
 - 🤝 Always open to collaborate on interesting projects
 - 📫 [Email me](mailto:saad.jabrane@polymtl.ca)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JabraneSaad)](https://github.com/anuraghazra/github-readme-stats)
